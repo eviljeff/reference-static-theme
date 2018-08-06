@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "reference-static-theme",
+  "theme": {
+    "images": {
+      "headerURL": "background.png",
+      "additional_backgrounds": [
+        "left-top.png",
+        "center-top.png",
+        "right-top.png",
+        "left-center.png",
+        "center-center.png",
+        "right-center.png",
+        "left-bottom.png",
+        "center-bottom.png",
+        "right-bottom.png"
+      ]
+    },
+
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "left top",
+        "center top",
+        "right top",
+        "left center",
+        "center center",
+        "right center",
+        "left bottom",
+        "center bottom",
+        "right bottom"
+      ]
+    },
+
+    "colors": {
+      "accentcolor": "#FFFFFF",
+      "textcolor": "#000000"
+    }
+  }
+}
